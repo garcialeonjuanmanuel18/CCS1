@@ -1,5 +1,5 @@
 body {
-    color:#F0F8FF; 
+    color:#204c71; 
     font-family: 'Arial';
 }
 P{
@@ -9,8 +9,28 @@ P{
 #titulo-principal{
     color:rgb(0, 255, 229);
     text-align: center;
-}
-a[target=blank]{
-    background color
+    font-size: 88px;
 }
 
+.destacado{
+    background-color: yellow;
+    font-weight: 700px;
+}
+
+.subtitulo{
+    color:rgb(123, 123, 123);
+    text-decoration: underline;
+}
+
+.caja-info p{
+    font-style:italic;
+    font-size: 0,9em;
+}
+
+a[target="_blank"]{
+    background-color:green;
+}
+
+a {
+    text-decoration: none;
+}
