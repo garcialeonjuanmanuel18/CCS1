@@ -3,7 +3,7 @@ body {
     font-family: 'Arial';
 }
 P{
-    line-height: 1,5;
+    line-height: 10,5em;
 }
 
 #titulo-principal{
@@ -14,11 +14,11 @@ P{
 
 .destacado{
     background-color: yellow;
-    font-weight: 700px;
+    font-weight: bold;
 }
 
 .subtitulo{
-    color:rgb(123, 123, 123);
+    color:#555555;
     text-decoration: underline;
 }
 
